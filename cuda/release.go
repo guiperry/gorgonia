@@ -1,3 +1,4 @@
+// +build !darwin !arm64
 // +build !debug
 
 package cuda

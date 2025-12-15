@@ -1,3 +1,4 @@
+// +build !darwin !arm64
 package cuda
 
 import (
