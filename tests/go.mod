@@ -1,4 +1,4 @@
-module issue_297_test
+module tests
 
 go 1.23.3
 
@@ -25,7 +25,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	gonum.org/v1/gonum v0.11.0 // indirect
 	google.golang.org/protobuf v1.28.0 // indirect
-	gorgonia.org/cu v0.9.6 // indirect
+	gorgonia.org/cu v0.9.7-0.20240623234718-3cd40db700e9 // indirect
 	gorgonia.org/dawson v1.2.0 // indirect
 	gorgonia.org/vecf32 v0.9.0 // indirect
 	gorgonia.org/vecf64 v0.9.0 // indirect

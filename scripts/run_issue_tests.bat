@@ -2,10 +2,10 @@
 setlocal
 
 :: Define the directory where the test files are located
-set "TEST_DIR=issue_297_test"
+set "TEST_DIR=tests"
 
 :: Change to the test directory using relative path from script location
-cd "%~dp0%..\issue_297_test" || ( echo Failed to change directory & exit /b 1 )
+cd "%~dp0%..\tests" || ( echo Failed to change directory & exit /b 1 )
 
 echo --- Running original non-deterministic test (issue_297.go) 10 times ---
 

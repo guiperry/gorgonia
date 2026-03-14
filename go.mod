@@ -22,7 +22,7 @@ require (
 	gonum.org/v1/netlib v0.0.0-20220323200511-14de99971b2d
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
-	gorgonia.org/cu v0.9.6
+	gorgonia.org/cu v0.9.7-0.20240623234718-3cd40db700e9
 	gorgonia.org/dawson v1.2.0
 	gorgonia.org/tensor v0.9.23
 	gorgonia.org/vecf32 v0.9.0

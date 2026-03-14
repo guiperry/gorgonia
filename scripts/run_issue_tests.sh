@@ -4,7 +4,7 @@
 set -e
 
 # Define the directory where the test files are located
-TEST_DIR="issue_297_test"
+TEST_DIR="tests"
 
 echo "--- Running original non-deterministic test (issue_297.go) 10 times ---"
 cd "$TEST_DIR"

@@ -1,4 +1,4 @@
-// +build cuda !darwin !arm64
+//go:build cuda && !darwin && !arm64
 package cuda
 
 import (
